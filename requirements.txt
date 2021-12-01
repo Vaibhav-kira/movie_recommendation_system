@@ -12,10 +12,7 @@ beautifulsoup4
 jsonschema
 tmdbv3api
 lxml
-urllib3
 requests
-pickleshare
-python
 bs4
 sklearn
 pandas
